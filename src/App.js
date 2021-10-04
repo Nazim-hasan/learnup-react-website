@@ -7,10 +7,9 @@ import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import NotFound from './components/NotFound/NotFound';
 import Services from './components/Services/Services';
-
 function App() {
   return (
-    <div className="bg-light">
+    <div className="custom-bg">
       <Router>
       <Header></Header>
         <Switch>

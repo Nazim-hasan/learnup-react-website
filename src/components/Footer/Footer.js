@@ -3,11 +3,11 @@ import { Col, Container, Row } from 'react-bootstrap';
 import "./Footer.css";
 const Footer = () => {
     return (
-        <footer className="mt-5 mb-2">
+        <footer className="mt-5 mb-2 text-white">
             <Container>
                 <Row>
                     <Col md={3}>
-                        <img className="mb-2" src="./logo.png" alt="" width='130px'/>
+                        <h4 classList='text-white'>Learn <span className='text-danger'>Up</span></h4>
                         <p><small>4967 Sardis Sta, Victoria 8007, Montreal.</small></p>
                         <p><small>+1 246-345-0695</small></p>
                         <p><small>Info@Learnup.Com</small></p>

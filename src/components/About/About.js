@@ -6,7 +6,7 @@ import Review from '../Review/Review';
 
 const About = () => {
     return (
-        <Container>
+        <Container className="text-white">
             <AboutELearning></AboutELearning>
             <Instructors></Instructors>
             <Review></Review>

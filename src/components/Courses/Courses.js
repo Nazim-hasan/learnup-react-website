@@ -9,7 +9,7 @@ const Courses = () => {
         .then(data => setCourses(data))
     },[]);
     return (
-        <div className="my-5">
+        <div className="my-5 text-white">
             <h5>Featured Courses</h5>
             <Row className="g-3 ">
                 {

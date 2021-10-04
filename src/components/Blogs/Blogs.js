@@ -11,7 +11,7 @@ const Blogs = () => {
         .then(data => setBlogs(data))
     },[])
     return (
-        <Container className="my-5">
+        <Container className="my-5 text-white">
             <div className="text-center mx-auto">
                 <h3 className="fw-bolder mb-1">Latest News & <span className="text-danger">Articles</span></h3>
                 <small>There are some news about our courses and articles</small>

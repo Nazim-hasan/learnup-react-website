@@ -6,8 +6,8 @@ const Banner = () => {
         <Row>
                 <Col md={6} className="d-flex align-items-center">
                     <div>
-                        <h1 className="fw-bold fs-1 lh-base">Study Beyond The Classroom</h1>
-                        <p>Develop your talents by taking courses, earning certificates, and earning degrees from Learnup world-class universities and companies instructors who are capable of building you.</p>
+                        <h1 className="fw-bold fs-1 lh-base text-white">Study Beyond The Classroom</h1>
+                        <p className="text-white">Develop your talents by taking courses, earning certificates, and earning degrees from Learnup world-class universities and companies instructors who are capable of building you.</p>
                         <Button className="px-3 py-2 btn-danger">Learn More</Button>
                     </div>
                 </Col>
