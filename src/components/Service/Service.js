@@ -4,7 +4,7 @@ import { Col } from 'react-bootstrap';
 const Service = (props) => {
     const {name,decShort,icon}=props.Service;
     return (
-        <Col md={4} className="d-flex justify-content-center">
+        <Col md={4} className="d-flex justify-content-center mt-4">
             <div className="me-2"><img src={icon} alt="" width="40px"/></div>
             <div>
                 <h5>{name}</h5>

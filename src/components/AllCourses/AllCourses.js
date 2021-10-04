@@ -12,7 +12,7 @@ const AllCourses = () => {
     return (
         <Container className="my-5">
             <h4><span className="text-danger text-center">Featured</span> Courses By Professional Instructor</h4>
-            <Row className="mt-2 g-3">
+            <Row className="mt-2 g-4">
                 {
                 courses.map(crs=> <Course key={crs.name} course={crs}></Course>)
                 }

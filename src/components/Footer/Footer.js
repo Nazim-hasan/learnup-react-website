@@ -1,6 +1,6 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-
+import "./Footer.css";
 const Footer = () => {
     return (
         <footer className="mt-5 mb-2">
@@ -13,21 +13,21 @@ const Footer = () => {
                         <p><small>Info@Learnup.Com</small></p>
                     </Col>
                     <Col md={3}>
-                        <h4>Navigations</h4>
+                        <h5>Navigations</h5>
                         <p>About Us</p>
                         <p>Blog</p>
                         <p>Services</p>
                         <p>FAQs Page</p>
                     </Col>
                     <Col md={3}>
-                        <h4>Help & Support</h4>
+                        <h5>Help & Support</h5>
                         <p>Documentation</p>
                         <p>Live Chat</p>
                         <p>Privacy</p>
                         <p>Mail Us</p>
                     </Col>
                     <Col md={3}>
-                        <h4>Download Apps</h4>
+                        <h5>Download Apps</h5>
                         <div className="border-3">
                             <h6>Google Play</h6>
                             <p><small>Get it Now</small></p>
