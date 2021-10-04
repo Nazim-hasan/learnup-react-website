@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Education",
+    "decShort": "We provide best quality education",
+    "icon": "http://zcube.in/educato/img/icon/pv-icon2.png"
+  },
+  {
+    "name": "Professional",
+    "decShort": "We maintain professionalism with our students",
+    "icon": "http://zcube.in/educato/img/icon/pv-icon3.png"
+  },
+  {
+    "name": "Research",
+    "decShort": "We do research on trading topic too",
+    "icon": "http://zcube.in/educato/img/icon/pv-icon4.png"
+  },
+  {
+    "name": "Management",
+    "decShort": "Our management system is the best of the world",
+    "icon": "http://zcube.in/educato/img/icon/pv-icon5.png"
+  },
+  {
+    "name": "Free Consulte",
+    "decShort": "We provide best consult for any student",
+    "icon": "http://zcube.in/educato/img/icon/pv-icon6.png"
+  },
+  {
+    "name": "Skilled Lecturers",
+    "decShort": "We got top level leacturers in our organization",
+    "icon": "http://zcube.in/educato/img/icon/pv-icon3.png"
+  }
+]
