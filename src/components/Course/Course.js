@@ -14,7 +14,7 @@ const Course = (props) => {
                     <div>
                         <p>{view} Views</p>
                         <div className="d-flex">
-                        <p className="text-danger me-2">{duration} minute</p>
+                        <p className="text-danger me-2">{duration} Hour</p>
                         <h5>$ {price}.00</h5>
                         </div>
                     </div>
