@@ -12,8 +12,8 @@ const Banner = () => {
                     </div>
                 </Col>
                 <Col md={6}>
-                    <div className="d-flex justify-content-end pe-5">
-                        <img src="./st-3.png" alt="" width="280px"/>
+                    <div className="d-flex justify-content-end pe-5 pt-4">
+                        <img src="./st-3.png" alt="" width="250px"/>
                     </div>
                 </Col>
             </Row>
